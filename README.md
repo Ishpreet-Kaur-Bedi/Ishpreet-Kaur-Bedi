@@ -42,9 +42,7 @@
 
 
 
-[![Ishpreet-Kaur-Bedi's GitHub | Stats](https://stats.quine.sh/Ishpreet-Kaur-Bedi/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ishpreet-Kaur-Bedi)
 
-<!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ishpreet-kaur-bedi&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ishpreet-kaur-bedi&theme=radical&hide_border=false)<br/>
@@ -56,4 +54,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ishpreet-kaur-bedi&icon=2&color=4)](https://visitcount.itsvg.in)
 
-Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Proudly created with GPRM ( https://gprm.itsvg.in ) 
